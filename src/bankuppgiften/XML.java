@@ -1,5 +1,3 @@
 package bankuppgiften;
 
-public class XML {
-    
-}
+public class XML { }
