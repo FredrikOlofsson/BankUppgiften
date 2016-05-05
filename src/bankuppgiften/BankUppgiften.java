@@ -5,3 +5,9 @@ public class BankUppgiften {
         machine.run();        
     }    
 }
+        
+        
+/*
+    username: "123"
+    Password: "pin"
+*/
